@@ -13,6 +13,7 @@ Below is a list of components needed for this project:
 - **DC 5V-12V ZVS DIY Low Voltage Induction Heating Module**  
 - **LEDs**  
 
+Total price as of January 2025, in Europe, is under 50€ (~$52)
 Make sure to gather all these components before proceeding with the build.
 
 [![The controller, test video](https://img.youtube.com/vi/F0CzHAuRhXs/0.jpg)](https://youtube.com/shorts/F0CzHAuRhXs)
