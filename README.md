@@ -4,7 +4,8 @@ NOTE: This is a work in progress
 
 Below is a list of components needed for this project:
 
-- **ATTINY85 Development Board**  
+- ~**ATTINY85 Development Board**~ (removed from project not enough memory or pins)
+- **Arduino Nano or equivalent** 
 - **I2C LCD 1602 Module (2x16)**  
 - **MP1584EN DC to DC Buck Converter** (3A, 7V~28V to 5V)  
 - **DC 5V-36V 15A (MAX 30A) 400W Dual High Power MOSFET Trigger Switch Drive Module**  
