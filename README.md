@@ -51,7 +51,7 @@ You'll find the Arduino sketch [here](ihctrlnano/ihctrlnano.ino).
 ---
 
 # **Description**
-This sketch controls a coil (e.g., in an induction heating system) by 
+This sketch controls a Induction Heating Module by 
 monitoring current (via an ACS712 sensor) and metal presence. It offers two 
 modes—**Manual and Auto**—selectable via a configuration menu displayed on a 
 16×2 LCD. A single button navigates the menu and toggles the coil.
