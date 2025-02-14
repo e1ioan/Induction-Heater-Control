@@ -1,4 +1,7 @@
-NOTE: This is a work in progress
+## Here it is
+[![My precious](https://img.youtube.com/vi/xyRq0nK4-xo/0.jpg)](https://www.youtube.com/watch?v=xyRq0nK4-xo)
+
+<!--NOTE: This is a work in progress-->
 
 ## Required Components
 
